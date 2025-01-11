@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_hrayr"
 copyright = u"2025, Hrayr Muradyan"
 author = u"Hrayr Muradyan"
 
@@ -34,3 +34,6 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
+
+
+
