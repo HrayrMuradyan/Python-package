@@ -1,5 +1,7 @@
 # pycounts_hrayr
 
+Author: Hrayr Muradyan
+
 Calculate word counts in a text file!
 
 ## Installation
