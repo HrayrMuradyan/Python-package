@@ -2,8 +2,6 @@
 
 Author: Hrayr Muradyan
 
-## Description
-
 Calculate word counts in a text file!
 
 ## Installation
